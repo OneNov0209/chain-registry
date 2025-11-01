@@ -22771,8 +22771,7 @@
           },
           "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/elys/images/elys.png"
         }
-      ],
-      "coingecko_id": "elys-network"
+      ]
     },
     {
       "description": "Aaron Network is an innovative platform for secure and private messaging, integrated into the blockchain ecosystem. We also offer a unique address reputation scoring system, ensuring that every user can interact with others confidently.",
@@ -27740,7 +27739,7 @@
           "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/intento/images/into.svg"
         }
       ],
-       "keywords": [
+      "keywords": [
         "defi",
         "orchestration"
       ],
